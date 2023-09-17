@@ -1,0 +1,22 @@
+.product-card {
+  display: flex;
+  overflow: hidden;
+  margin-top: 0.25rem;
+  flex-direction: column;
+  padding: 9px;
+  width: 230px;
+  height: 350px;
+  box-shadow: 8px 8px 20px 10px rgba(0, 0, 0, 0.25);
+}
+
+.product-image {
+  margin: 5px;
+  height: 10rem;
+  user-select: none;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
+    0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+.radio-container {
+  padding-left: 20px;
+}
+

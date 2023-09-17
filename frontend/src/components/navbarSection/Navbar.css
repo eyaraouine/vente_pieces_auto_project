@@ -1,0 +1,12 @@
+.custom-link {
+    color: white;
+    opacity: 0.9;
+    margin: 0 40px;
+  };
+  
+  .custom-lnik:hover  {
+    background: white;
+    color: primary;
+  };
+  
+ 
